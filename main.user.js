@@ -81,7 +81,10 @@
             getStreamsAndSortThem();
             event.stopImmediatePropagation();
         }
-        followedSectionButton.addEventListener('click', followedButtonCallBack);
+        g.addEventListener('click', (e) => {
+            e.stopImmediatePropagation();
+        });
+        followedSectionButton.addEventListener('click', followedButtonCallBack, true);
         g.firstElementChild.lastElementChild.innerHTML = GM_getValue("alpha") ? "Alpha" : "Spec";
         let svgHolder = g.lastElementChild.lastElementChild.lastElementChild.lastElementChild.lastElementChild;
         if (GM_getValue("alpha")) {
