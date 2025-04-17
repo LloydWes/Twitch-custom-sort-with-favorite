@@ -13,6 +13,8 @@
 // @grant GM_addStyle
 // @run-at document-start
 // @homepageURL  https://github.com/LloydWes/Twitch-custom-sort-with-favorite
+// @downloadURL https://update.greasyfork.org/scripts/517225/Custom%20channel%20sort%20with%20favorites.user.js
+// @updateURL https://update.greasyfork.org/scripts/517225/Custom%20channel%20sort%20with%20favorites.meta.js
 // @license      MIT
 // ==/UserScript==
 
