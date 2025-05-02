@@ -14,7 +14,8 @@ The favorites are shown above the purple bar.
 
 You can toggle a favorite by right clicking on a channel and click on "Tampermonkey" -> "Custom channel sort" -> "toggle favorite"
 
-![image](https://github.com/user-attachments/assets/f1b65fa5-66db-4c3a-97bc-81a4ab7581dd)
+![How to add or remove favorite](https://github.com/user-attachments/assets/a1f54129-3570-4abf-a095-e6ef2d5fb422)
+
 
 You have to use this script with an auto channel expend script so as all online channels are visible in the list.
 
