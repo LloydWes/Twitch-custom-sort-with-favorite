@@ -5,15 +5,10 @@ At the beginning it was as a quick and dirty script to have "favorites" but now 
 You can change the sort viewer count/alphabetical by clicking  "Followed Channel"
 
 ![image](https://github.com/user-attachments/assets/5b52148d-9212-40bb-a09c-a12825958892)
-
 ![image](https://github.com/user-attachments/assets/be42c0b5-9574-4456-9077-137f034c294e)
 
-The favorites are shown above the purple bar.
-
-![image](https://github.com/user-attachments/assets/34d7a26e-4945-4141-91b7-0852f2091427)
-
 You can toggle a favorite by right clicking on a channel and click on "Tampermonkey" -> "Custom channel sort" -> "toggle favorite"
-
+The favorites are shown above the purple bar.
 ![How to add or remove favorite](https://github.com/user-attachments/assets/a1f54129-3570-4abf-a095-e6ef2d5fb422)
 
 
