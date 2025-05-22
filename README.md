@@ -9,7 +9,8 @@ You can change the sort viewer count/alphabetical by clicking  "Followed Channel
 
 You can toggle a favorite by right clicking on a channel and click on "Tampermonkey" -> "Custom channel sort" -> "toggle favorite"
 The favorites are shown above the purple bar.
-![How to add or remove favorite](https://github.com/user-attachments/assets/a1f54129-3570-4abf-a095-e6ef2d5fb422)
+![How to add or remove favorite](https://github.com/user-attachments/assets/261fd406-6cd2-4a2f-80e3-cc0c4c5db2a3)
+)
 
 
 You have to use this script with an auto channel expend script so as all online channels are visible in the list.
