@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch channel sort with favorites
-// @namespace    https://github.com/tomasz13nocon
+// @namespace    https://github.com/LloydWes
 // @version      1.2
 // @description  Reorders the followed channels list in the sidebar based on viewcount or alphabetical order, allows to place favorites on the top of the list.
 // @author       Lloyd WESTBURY
